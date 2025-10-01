@@ -1,0 +1,23 @@
+.dart_tool/
+.packages
+pubspec.lock
+build/
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+# Dart compilation outputs
+*.js
+*.js.map
+*.dart.js
+*.info.json
+*.snapshot
+*.aot
+# Editor/IDE misc
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Generated configs
+generated.conf

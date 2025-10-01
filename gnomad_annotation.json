@@ -1,0 +1,218 @@
+{
+    "files": [
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr1.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr2.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr3.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr4.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr5.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr6.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr7.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr8.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr9.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr10.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr11.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr12.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr13.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr14.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr15.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr16.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr17.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr18.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr19.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr20.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr21.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chr22.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chrX.vcf.bgz",
+        "/media/meghann/data1/gnomad/4.1/exomes/gnomad.genomes.v4.1.sites.chrY.vcf.bgz"
+    ],
+    "fields": [
+        {
+            "name": "AS_ReadPosRankSum"
+        },
+        {
+            "name": "AS_culprit"
+        },
+        {
+            "name": "AS_QUALapprox"
+        },
+        {
+            "name": "n_alt_alleles"
+        },
+        {
+            "name": "AF_nfe"
+        },
+        {
+            "name": "segdup"
+        },
+        {
+            "name": "SOR"
+        },
+        {
+            "name": "cadd_phred"
+        },
+        {
+            "name": "faf99"
+        },
+        {
+            "name": "spliceai_ds_max"
+        },
+        {
+            "name": "AF"
+        },
+        {
+            "name": "QD"
+        },
+        {
+            "name": "AS_VarDP"
+        },
+        {
+            "name": "allele_type"
+        },
+        {
+            "name": "AF_nfe_XX"
+        },
+        {
+            "name": "VarDP"
+        },
+        {
+            "name": "AF_nfe_XY"
+        },
+        {
+            "name": "variant_type"
+        },
+        {
+            "name": "AS_SOR"
+        },
+        {
+            "name": "only_het"
+        },
+        {
+            "name": "faf99_nfe"
+        },
+        {
+            "name": "faf95"
+        },
+        {
+            "name": "AC_nfe_XX"
+        },
+        {
+            "name": "AN_nfe_XX"
+        },
+        {
+            "name": "cadd_raw_score"
+        },
+        {
+            "name": "phylop"
+        },
+        {
+            "name": "QUALapprox"
+        },
+        {
+            "name": "polyphen_max"
+        },
+        {
+            "name": "AS_QD"
+        },
+        {
+            "name": "was_mixed"
+        },
+        {
+            "name": "grpmax"
+        },
+        {
+            "name": "nhomalt_nfe"
+        },
+        {
+            "name": "AN_nfe_XY"
+        },
+        {
+            "name": "nhomalt_nfe_XY"
+        },
+        {
+            "name": "AC"
+        },
+        {
+            "name": "sift_max"
+        },
+        {
+            "name": "pangolin_largest_ds"
+        },
+        {
+            "name": "AC_nfe"
+        },
+        {
+            "name": "faf95_nfe"
+        },
+        {
+            "name": "MQ"
+        },
+        {
+            "name": "AS_MQRankSum"
+        },
+        {
+            "name": "AS_MQ"
+        },
+        {
+            "name": "AC_nfe_XY"
+        },
+        {
+            "name": "MQRankSum"
+        },
+        {
+            "name": "AN_nfe"
+        },
+        {
+            "name": "AS_SB_TABLE"
+        },
+        {
+            "name": "ReadPosRankSum"
+        },
+        {
+            "name": "nhomalt"
+        },
+        {
+            "name": "AS_VQSLOD"
+        },
+        {
+            "name": "nhomalt_nfe_XX"
+        },
+        {
+            "name": "negative_train_site"
+        },
+        {
+            "name": "AN"
+        },
+        {
+            "name": "positive_train_site"
+        },
+        {
+            "name": "inbreeding_coeff"
+        },
+        {
+            "name": "revel_max"
+        },
+        {
+            "name": "monoallelic"
+        },
+        {
+            "name": "transmitted_singleton"
+        },
+        {
+            "name": "FS"
+        },
+        {
+            "name": "lcr"
+        },
+        {
+            "name": "AS_FS"
+        },
+        {
+            "name": "AS_pab_max"
+        },
+        {
+            "name": "vep"
+        }
+    ],
+    "default_ops": "self",
+    "default_prefix": "gnomad"
+}
