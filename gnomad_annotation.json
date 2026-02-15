@@ -48,13 +48,15 @@
             "name": "SOR"
         },
         {
-            "name": "cadd_phred"
+            "name": "cadd_phred",
+            "alias": "cadd_phhred"
         },
         {
             "name": "faf99"
         },
         {
-            "name": "spliceai_ds_max"
+            "name": "spliceai_ds_max",
+            "alias": "spliceai"
         },
         {
             "name": "AF"
@@ -99,16 +101,19 @@
             "name": "AN_nfe_XX"
         },
         {
-            "name": "cadd_raw_score"
+            "name": "cadd_raw_score",
+            "alias": "cadd_raw"
         },
         {
-            "name": "phylop"
+            "name": "phylop",
+            "alias": "phylop"
         },
         {
             "name": "QUALapprox"
         },
         {
-            "name": "polyphen_max"
+            "name": "polyphen_max",
+            "alias": "polyphen"
         },
         {
             "name": "AS_QD"
@@ -135,7 +140,8 @@
             "name": "sift_max"
         },
         {
-            "name": "pangolin_largest_ds"
+            "name": "pangolin_largest_ds",
+            "alias": "pangolin_largest_ds"
         },
         {
             "name": "AC_nfe"
@@ -189,7 +195,8 @@
             "name": "inbreeding_coeff"
         },
         {
-            "name": "revel_max"
+            "name": "revel_max",
+            "alias": "revel"
         },
         {
             "name": "monoallelic"
